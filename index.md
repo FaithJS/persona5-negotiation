@@ -120,6 +120,41 @@
 | Fused Ghost               | Legion           | Upbeat      |
 
 ***
+
+<table>
+	<tr>
+		<th colspan="2">...I'm just putting this out there, but you wouldn't treat me this way if I were younger, right?
+	</tr>
+	<tr>
+		<td>That's not it at all.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>You look young.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Cougars are all the rage now.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">It's true, isn't it?
+	</tr>
+	<tr>
+		<td>That's not it at all.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>You look young.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Cougars are all the rage now.</td>
+		<td></td>
+	</tr>
+</table>
 <table>
 	<tr>
 		<th colspan="2">...You know what I'm getting' at, right? You think you could let me go see my girl?</th>
